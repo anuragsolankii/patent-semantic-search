@@ -117,3 +117,5 @@ celerybeat.pid
 .mypy_cache/
 .dmypy.json
 dmypy.json patent_jsons_ML Assignment/
+patent_jsons_ML Assignment/
+*.json
