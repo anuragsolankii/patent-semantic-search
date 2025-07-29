@@ -1,0 +1,33 @@
+# API Framework
+fastapi>=0.100.0
+uvicorn>=0.20.0
+pydantic>=2.0.0
+
+# Machine Learning & Embeddings - Using simpler sentence transformer
+sentence-transformers>=2.2.0
+torch>=2.0.0
+numpy>=1.24.0
+
+# Vector Database
+chromadb>=0.4.0
+
+# LLM Integration
+python-dotenv>=1.0.0
+
+# Data Processing
+pandas>=2.0.0
+beautifulsoup4>=4.10.0
+html2text>=2020.1.16
+
+# HTTP & Async
+httpx>=0.25.0
+
+# Utilities
+python-multipart>=0.0.6
+
+# LLM Integration
+groq>=0.1.0        # ✅ Add this for Groq SDK
+python-dotenv>=1.0.0
+
+# Optional (used implicitly)
+tqdm>=4.65.0       # ✅ If you're using tqdm for loading bar (e.g. in document load)
